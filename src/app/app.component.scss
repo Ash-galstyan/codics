@@ -1,0 +1,18 @@
+nav {
+  li {
+    list-style-type: none;
+  }
+
+  .collapse {
+    justify-content: space-between;
+  }
+}
+
+.forgot-pass {
+  cursor: pointer;
+}
+
+input:invalid {
+  color: red;
+}
+
